@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shepherd-Moahloli
-- 👀 I’m interested in fashion media
-- 🌱 I’m currently learning interactive media
-- 💞️ I’m looking to collaborate on web design
+- 👀 I’m Graphic Designer / Web Developer
+- 🕸️ I’m looking to collaborate on web design
 - 📫 How to reach me through email
 
 <!---
