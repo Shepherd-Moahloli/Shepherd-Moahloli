@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shepherd-Moahloli
-- 👀 I’m Graphic Designer / Web Developer
+- 👀 I’m a Graphic Designer / Web Developer
 - 🕸️ I’m looking to collaborate on web design
 - 📫 How to reach me through email
 
